@@ -1,1 +1,3 @@
 # wiki-race-game
+Came accross the [Wiki-Game](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game), thought maybe nice to write a little script? 
+Just an Idea, making this repo, so maybe when I have mor time I will continue. For now it is just a python script, and the game is played only with command line input...
